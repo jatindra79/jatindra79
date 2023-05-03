@@ -1,8 +1,6 @@
-![Web Developer](https://scontent.fjsr1-2.fna.fbcdn.net/v/t1.6435-9/53456324_2305835793026626_5610389472366559232_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE3TF79IDB-jUqXgUV9WeuaZQRdkkdeZjBlBF2SR15mMJNOOZan7NO8Cby1jHCnWZJbv5qUfPgXA0cDkgrDS39P&_nc_ohc=1bOW0Mq4KJMAX-amlUV&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfBHHC1tsKBamxaJS4wcRPbbKJibt5-9LVNwa2dQybsrpQ&oe=6479FF58)
-
 ### Hi there 👋, I am Jatindra Nath
 #### Web Developer
-
+![Web Developer](https://scontent.fjsr1-2.fna.fbcdn.net/v/t1.6435-9/53456324_2305835793026626_5610389472366559232_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE3TF79IDB-jUqXgUV9WeuaZQRdkkdeZjBlBF2SR15mMJNOOZan7NO8Cby1jHCnWZJbv5qUfPgXA0cDkgrDS39P&_nc_ohc=1bOW0Mq4KJMAX-amlUV&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfBHHC1tsKBamxaJS4wcRPbbKJibt5-9LVNwa2dQybsrpQ&oe=6479FF58)
 
 I am WordPress Developer
 
